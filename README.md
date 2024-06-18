@@ -21,6 +21,7 @@ Packages from other developers that could help you in implementing your enviroty
 - soilType, by Fritsche-Neto [repo](https://github.com/rfn-qtl/SoilType)
 - learnMET, by Westhues et al [repo](https://github.com/cjubin/learnMET)
 - GIS-FA, by Araujo et al [repo](https://github.com/Kaio-Olimpio/GIS-FA)
+- EPA-PLS, by Costa-Neto et al [repo](https://github.com/gcostaneto/EPA-PLS)
 
 # Join us!
 
